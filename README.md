@@ -8,4 +8,4 @@ This was a group project and it was completed during three months period.
 * HTML File Designed
 
 
-![Drag Racing](p3.png)
+![Final Output](trunk/PicMiner/test_repository/test_img/p3.png)
