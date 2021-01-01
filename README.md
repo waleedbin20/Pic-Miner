@@ -7,5 +7,6 @@ This was a group project and it was completed during three months period.
 * GUI designed
 * HTML File Designed
 
+##### This is the final output of the software
 
 ![Final Output](trunk/PicMiner/test_repository/test_img/p3.png)
