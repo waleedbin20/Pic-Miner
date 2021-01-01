@@ -5,5 +5,4 @@ This was a group project and it was completed during three months period.
 
 * Unit Testing was done
 * GUI designed
-* HTML Generator
-* File Picker
+* HTML File Designed
